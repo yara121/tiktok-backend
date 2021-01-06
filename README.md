@@ -1,4 +1,6 @@
 # tiktok-backend
 Created following clever programmer tutorial
 
-Live Demo: https://whatsapp-mern-54b7a.web.app/
+Live Demo: https://tiktok-clone-6b404.web.app/
+
+Created using Node js and Mongo DB
